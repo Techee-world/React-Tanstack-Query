@@ -4,7 +4,7 @@ function App() {
   
   return (
     <>
-    my testing app
+   react tanstack query 
     </>
   )
 }
